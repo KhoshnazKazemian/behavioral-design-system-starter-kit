@@ -1,0 +1,6 @@
+.DS_Store
+outputs/generated-patterns/*
+!outputs/generated-patterns/.gitkeep
+
+.env
+.cursor
